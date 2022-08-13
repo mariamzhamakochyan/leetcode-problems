@@ -1,3 +1,4 @@
+'''this is not the right solution'''
 def is_polindrome(string):
     new_str = string.lower()
     str1 = ''
